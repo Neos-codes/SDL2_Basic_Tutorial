@@ -18,6 +18,6 @@ then compile
 
 > gcc main.c -lSDL2
 
-# Created by
+## Created by
 
 > Fabián Cid
